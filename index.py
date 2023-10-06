@@ -134,3 +134,5 @@ RegisterButton = ttk.Button(RightFrame, text='Register', width=20, command=Regis
 RegisterButton.place(x=146, y=235)
 
 janela.mainloop()
+
+# Enviado para o GitHub
