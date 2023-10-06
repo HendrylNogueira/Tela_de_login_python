@@ -1,4 +1,4 @@
-# Tela_de_login_python
+# Tela de login em python
 
 Projeto que gera uma tela de login com validação de usuário.
 
